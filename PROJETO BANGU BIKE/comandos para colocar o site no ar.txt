@@ -1,0 +1,322 @@
+Microsoft Windows [versão 10.0.22631.6199]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\PC>node
+Welcome to Node.js v24.11.1.
+Type ".help" for more information.
+> npm i -g vercel
+npm should be run outside of the Node.js REPL, in your normal shell.
+(Press Ctrl+D to exit.)
+> shell
+Uncaught ReferenceError: shell is not defined
+> c:\users
+c:\users
+  ^^^^^^
+
+Uncaught SyntaxError: Invalid Unicode escape sequence
+> .exite
+Invalid REPL keyword
+> '.exite'
+'.exite'
+>
+(To exit, press Ctrl+C again or Ctrl+D or type .exit)
+>
+
+C:\Users\PC>npm i -g vercel
+npm warn deprecated path-match@1.2.4: This package is archived and no longer maintained. For support, visit https://github.com/expressjs/express/discussions
+
+added 289 packages in 23s
+
+32 packages are looking for funding
+  run `npm fund` for details
+
+C:\Users\PC>cd\documentos\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA-SANTOS
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\PC> cd "C:\Users\PC\documentos\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA-SANTOS"
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\PC> cdC:\Users\PC\documentos\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA-SANTOS
+A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta.
+
+C:\Users\PC> cd C:\Users\PC\documentos\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA-SANTOS
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\PC> cddocumentos\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA-SANTOS"
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\PC> cd "documentos\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA-SANTOS"
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\PC> cd documentos\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA-SANTOS
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\PC>cd documentos
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\PC>dir
+ O volume na unidade C não tem nome.
+ O Número de Série do Volume é 1893-24BD
+
+ Pasta de C:\Users\PC
+
+18/12/2025  11:14    <DIR>          .
+07/05/2022  02:30    <DIR>          ..
+16/12/2025  06:11    <DIR>          .dbus-keyrings
+04/08/2024  09:39    <DIR>          .ms-ad
+18/12/2025  11:49                37 .node_repl_history
+15/10/2025  10:34    <DIR>          .sema4ai
+14/08/2025  12:52    <DIR>          .vscode
+29/04/2025  22:57    <DIR>          .zenmap
+16/07/2024  17:10    <DIR>          ansel
+21/11/2025  14:15    <DIR>          Application Data
+07/05/2022  02:30    <DIR>          Contacts
+26/11/2025  08:26    <DIR>          Desktop
+14/12/2025  10:38    <DIR>          Documents
+18/12/2025  08:46    <DIR>          Downloads
+07/05/2022  02:30    <DIR>          Favorites
+15/04/2025  15:43                 0 ipconfig
+07/05/2022  02:30    <DIR>          Links
+07/05/2022  02:30    <DIR>          Music
+07/05/2022  02:32    <DIR>          OneDrive
+18/07/2024  05:56    <DIR>          Pictures
+07/05/2022  02:30    <DIR>          Saved Games
+07/05/2022  02:33    <DIR>          Searches
+25/07/2024  16:22                 0 Sti_Trace.log
+17/08/2025  20:42    <DIR>          Videos
+               3 arquivo(s)             37 bytes
+              21 pasta(s)   713.284.038.656 bytes disponíveis
+
+C:\Users\PC>cd documents
+
+C:\Users\PC\Documents>cd"1_DEV MEDIA"
+'cd"1_DEV MEDIA"' não é reconhecido como um comando interno
+ou externo, um programa operável ou um arquivo em lotes.
+
+C:\Users\PC\Documents>cd "1_DEV MEDIA"
+
+C:\Users\PC\Documents\1_DEV MEDIA>CD FRONT-END
+
+C:\Users\PC\Documents\1_DEV MEDIA\FRONT-END>CD "PROJETO IMOBILIÁRIA-SANTOS"
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\PC\Documents\1_DEV MEDIA\FRONT-END> CD "PROJETO IMOBILIÁRIA - SANTOS"
+
+C:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS>VERCEL
+Vercel CLI 50.1.2
+> NOTE: The Vercel CLI now collects telemetry regarding usage of the CLI.
+> This information is used to shape the CLI roadmap and prioritize features.
+> You can learn more, including how to opt-out if you'd not like to participate in this program, by visiting the following URL:
+> https://vercel.com/docs/cli/about-telemetry
+> No existing credentials found. Please log in:
+
+  Visit https://vercel.com/oauth/device?user_code=SLKF-WXVD
+  Press [ENTER] to open the browser
+? Set up and deploy “~\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS”? yes
+Error: The specified token is not valid. Use `vercel login` to generate a new token.
+
+C:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS>VERCEL LOGIN
+Vercel CLI 50.1.2
+Error: Could not find “~\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS\LOGIN”
+
+C:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS>vercel login
+Vercel CLI 50.1.2
+
+  Visit https://vercel.com/oauth/device?user_code=HPSJ-PQMP
+
+  Congratulations! You are now signed in.
+
+  To deploy something, run `vercel`.
+
+  💡 To deploy every commit automatically,
+  connect a Git Repository (vercel.link/git (https://vercel.link/git)).
+
+C:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS>
+C:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS>vercel
+Vercel CLI 50.1.2
+? Set up and deploy “~\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS”? yes
+? Which scope should contain your project? SÉRGIO MATOS's projects
+? Link to existing project? yes
+> No existing projects found under sergio-matoss-projects. Creating new project.
+? What’s your project’s name? projeto-imobiliaria-santos
+? In which directory is your code located? ././
+No framework detected. Default Project Settings:
+- Build Command: `npm run vercel-build` or `npm run build`
+- Development Command: None
+- Install Command: `yarn install`, `pnpm install`, `npm install`, or `bun install`
+- Output Directory: `public` if it exists, or `.`
+? Want to modify these settings? yes
+? Which settings would you like to overwrite (select multiple)?
+? Do you want to change additional project settings? no
+🔗  Linked to sergio-matoss-projects/projeto-imobiliaria-santos (created .vercel and added it to .gitignore)
+🔍  Inspect: https://vercel.com/sergio-matoss-projects/projeto-imobiliaria-santos/8CYF1dK22DCG6EmmHcosb1R2HcQT [6s]
+⏳  Production: https://projeto-imobiliaria-santos-dnvuuct55-sergio-matoss-projects.vercel.app [6s]
+Error: The specified Root Directory ".\" does not exist. Please update your Project Settings.
+
+C:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS>dir
+ O volume na unidade C não tem nome.
+ O Número de Série do Volume é 1893-24BD
+
+ Pasta de C:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS
+
+18/12/2025  18:08    <DIR>          .
+05/12/2025  16:12    <DIR>          ..
+18/12/2025  18:08                 9 .gitignore
+18/12/2025  18:08    <DIR>          .vercel
+26/11/2025  22:14    <DIR>          css
+26/11/2025  13:20    <DIR>          fontes_imobiliaria
+02/12/2025  20:10           847.520 FOTO DE CAPA DO MEU PROJETO.png
+26/11/2025  13:21    <DIR>          img
+02/12/2025  20:00             3.999 index.html
+26/11/2025  17:27         1.928.682 layout do site.docx
+               4 arquivo(s)      2.780.210 bytes
+               6 pasta(s)   713.084.342.272 bytes disponíveis
+
+C:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS>cd site
+O sistema não pode encontrar o caminho especificado.
+
+C:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS>vercel
+Vercel CLI 50.1.2
+🔍  Inspect: https://vercel.com/sergio-matoss-projects/projeto-imobiliaria-santos/PdC3oHQc2AC3MBGaqBH5CCPYtkyE [2s]
+⏳  Preview: https://projeto-imobiliaria-santos-w4gatkik3-sergio-matoss-projects.vercel.app [2s]
+Error: The specified Root Directory ".\" does not exist. Please update your Project Settings.
+
+C:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS>vercel --prod
+Vercel CLI 50.1.2
+🔍  Inspect: https://vercel.com/sergio-matoss-projects/projeto-imobiliaria-santos/3co56yczp1xD7sJVaW35RYbcWVVK [1s]
+⏳  Production: https://projeto-imobiliaria-santos-91vf9s80i-sergio-matoss-projects.vercel.app [1s]
+Error: The specified Root Directory ".\" does not exist. Please update your Project Settings.
+
+C:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS>dir
+ O volume na unidade C não tem nome.
+ O Número de Série do Volume é 1893-24BD
+
+ Pasta de C:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS
+
+18/12/2025  18:08    <DIR>          .
+05/12/2025  16:12    <DIR>          ..
+18/12/2025  18:08                 9 .gitignore
+18/12/2025  18:08    <DIR>          .vercel
+26/11/2025  22:14    <DIR>          css
+26/11/2025  13:20    <DIR>          fontes_imobiliaria
+02/12/2025  20:10           847.520 FOTO DE CAPA DO MEU PROJETO.png
+26/11/2025  13:21    <DIR>          img
+02/12/2025  20:00             3.999 index.html
+26/11/2025  17:27         1.928.682 layout do site.docx
+               4 arquivo(s)      2.780.210 bytes
+               6 pasta(s)   713.080.344.576 bytes disponíveis
+
+C:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS>vercel --prod
+Vercel CLI 50.1.2
+🔍  Inspect: https://vercel.com/sergio-matoss-projects/projeto-imobiliaria-santos/8oDRZjf43pKWNczhzZJYw52MYaxp [1s]
+⏳  Production: https://projeto-imobiliaria-santos-kgkhnodp8-sergio-matoss-projects.vercel.app [1s]
+Error: The specified Root Directory ".\" does not exist. Please update your Project Settings.
+
+C:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS>dir /s*.html
+Formato de parâmetro incorreto - "s*.html".
+
+C:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS>dir/s*.html
+Formato de parâmetro incorreto - "s*.html".
+
+C:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS>dir
+ O volume na unidade C não tem nome.
+ O Número de Série do Volume é 1893-24BD
+
+ Pasta de C:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS
+
+18/12/2025  18:08    <DIR>          .
+05/12/2025  16:12    <DIR>          ..
+18/12/2025  18:08                 9 .gitignore
+18/12/2025  18:08    <DIR>          .vercel
+26/11/2025  22:14    <DIR>          css
+26/11/2025  13:20    <DIR>          fontes_imobiliaria
+02/12/2025  20:10           847.520 FOTO DE CAPA DO MEU PROJETO.png
+26/11/2025  13:21    <DIR>          img
+02/12/2025  20:00             3.999 index.html
+26/11/2025  17:27         1.928.682 layout do site.docx
+               4 arquivo(s)      2.780.210 bytes
+               6 pasta(s)   713.084.284.928 bytes disponíveis
+
+C:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS>cd .vercel
+
+C:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS\.vercel>cd\
+
+C:\>vercel remove projeto-imobiliaria-santos
+Vercel CLI 50.1.2
+> Found 1 project for removal in sergio-matoss-projects [980ms]
+The following project will be permanently removed, including all its deployments and aliases:
+- projeto-imobiliaria-santos
+> Are you sure? (y/N) y
+> Success! Removed 1 project [622ms]
+- projeto-imobiliaria-santos
+
+C:\>vercel
+Vercel CLI 50.1.2
+? Set up and deploy “C:\”? yes
+? Which scope should contain your project? (Use arrow keys)
+> SÉRGIO MATOS's projects
+^C
+C:\>
+
+C:\>cd:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA-SANTOS
+A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta.
+
+C:\>cd:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA-SANTOS
+A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta.
+
+C:\>cd:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS
+A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta.
+
+C:\>cd:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA-SANTOS
+A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta.
+
+C:\>CD:\DOCUMENTS
+A sintaxe do nome do arquivo, do nome do diretório ou do rótulo do volume está incorreta.
+
+C:\>cd\documents
+O sistema não pode encontrar o caminho especificado.
+
+C:\>cd C:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS
+
+C:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS>dir
+ O volume na unidade C não tem nome.
+ O Número de Série do Volume é 1893-24BD
+
+ Pasta de C:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS
+
+18/12/2025  18:08    <DIR>          .
+05/12/2025  16:12    <DIR>          ..
+18/12/2025  18:08                 9 .gitignore
+18/12/2025  18:08    <DIR>          .vercel
+26/11/2025  22:14    <DIR>          css
+26/11/2025  13:20    <DIR>          fontes_imobiliaria
+02/12/2025  20:10           847.520 FOTO DE CAPA DO MEU PROJETO.png
+26/11/2025  13:21    <DIR>          img
+02/12/2025  20:00             3.999 index.html
+26/11/2025  17:27         1.928.682 layout do site.docx
+               4 arquivo(s)      2.780.210 bytes
+               6 pasta(s)   713.076.518.912 bytes disponíveis
+
+C:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS>vercel
+Vercel CLI 50.1.2
+❗️  Your Project was either deleted, transferred to a new Team, or you don’t have access to it anymore.
+? Set up and deploy “~\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS”? yes
+? Which scope should contain your project? SÉRGIO MATOS's projects
+? Link to existing project? no
+? What’s your project’s name? imobiliaria-santos
+? In which directory is your code located? ./.
+No framework detected. Default Project Settings:
+- Build Command: `npm run vercel-build` or `npm run build`
+- Development Command: None
+- Install Command: `yarn install`, `pnpm install`, `npm install`, or `bun install`
+- Output Directory: `public` if it exists, or `.`
+? Want to modify these settings? no
+? Do you want to change additional project settings? no
+🔗  Linked to sergio-matoss-projects/imobiliaria-santos (created .vercel)
+🔍  Inspect: https://vercel.com/sergio-matoss-projects/imobiliaria-santos/71wcJwFWFHqf34nt4BmfQJYtx6KD [2s]
+✅  Production: https://imobiliaria-santos-girkturuj-sergio-matoss-projects.vercel.app [9s]
+🔗  Aliased: https://imobiliaria-santos-eta.vercel.app [9s]
+📝  Deployed to production. Run `vercel --prod` to overwrite later (https://vercel.link/2F).
+💡  To change the domain or build command, go to https://vercel.com/sergio-matoss-projects/imobiliaria-santos/settings
+
+C:\Users\PC\Documents\1_DEV MEDIA\FRONT-END\PROJETO IMOBILIÁRIA - SANTOS>
